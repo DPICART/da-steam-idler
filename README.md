@@ -17,5 +17,9 @@ The script relies on: **wget**, **pillow** and **tkinter**
 
         python da-steam-idler
 4. A window open, you are now idling.
-![Program Idling][program-idling.png]
 
+    Example for CSGO (appId 730):
+
+        python da-steam-idler 730
+    
+![Program Idling](/program-idling.png)

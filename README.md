@@ -1,11 +1,24 @@
 # da-steam-idler
-A python script allowing you to simulate that a steam game is running given its appId.
+A python script allowing a windows user to simulate that a steam game is running given its appId.
 
 The script relies on: **wget**, **pillow** and **tkinter**
 
 ## How to use ?
+0. Install [Python](https://www.python.org/downloads/) >=3.7
+1. Install dependencies: 
 
-1. Install dependencies: **wget**, **pillow** and **tkinter**
+    **wget**
+    
+       pip install wget
+    
+    **pillow**
+    
+       pip install pillow
+    
+    **tkinter**
+    
+       pip install tkintertable
+    
 2. Launch Steam and log in
 3. run da-steam-idler.py
 
